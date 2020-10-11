@@ -1,0 +1,11 @@
+# telethon session files
+*.session
+*.session-journal
+
+# config file
+config.py
+
+# default database
+storage.db
+
+/venv/*

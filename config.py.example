@@ -1,0 +1,10 @@
+config = {
+    'telegram': {
+        'app_name': 'my_app_name',
+        'api_id': "1234567",
+        "api_hash": "1a1a1a1a1a1a1a1a1a1a11a1a1a1a1a1",
+        'phone_id': "+5555555555555"
+    },
+    'start_channels': ['https://t.me/telegram'],
+    'database': "sqlite:///storage.db"
+}
