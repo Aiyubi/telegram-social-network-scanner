@@ -42,7 +42,7 @@ While this tool was designed with a specific group in mind, it is designed to wo
     
 5. (WIP) visualize the result
 
-    `python visualize.py`
+    The visualization is currently being worked on. Check out the branches for different approaches.
 
 # Technical notes
 ## structure
